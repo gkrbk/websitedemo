@@ -610,6 +610,10 @@ added media queries below:
     top: 24px !important;
   }
 
+  .nonhomepagehero {
+    top: 12px !important;
+  }
+
 }
 
 
