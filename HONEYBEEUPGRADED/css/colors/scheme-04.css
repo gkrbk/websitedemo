@@ -1,0 +1,12 @@
+:root {
+  --primary-color: #000000;
+  --primary-color-rgb: 0, 0, 0;
+  --secondary-color: #0c4d9b;
+  /* --secondary-color-rgb: 12, 77, 155; */
+  --secondary-color-rgb: 70, 135, 215;
+  --tertiary-color: #f4fbfc;
+  --tertiary-color-rgb: 244, 251, 252;
+  --custom-color: rgb(0, 0, 0);
+  --icon-color: #329bdd;
+  --icon-color-2: #074fa8;
+}
